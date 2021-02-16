@@ -750,3 +750,19 @@ Received Import Request.
 Start importing Assets/Scripts/MovePlayer.cs using Guid(612cbd35dd68ba04eacdee8b0f93f144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba86561ad10867f0aec17c81b752f2f4') in 0.006557 seconds
   Import took 0.031482 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1849.177498 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(acc8c5186dd2a5a4390492aac4ecc661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(acc8c5186dd2a5a4390492aac4ecc661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c560fac33fecdd36ba95c08038a6cbb') in 0.006779 seconds
+  Import took 0.012909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.658386 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(d2286fb6c8119244dac9c204e082f615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(d2286fb6c8119244dac9c204e082f615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13f6249dfaf0a71adb7454e7ddec763') in 0.008805 seconds
+  Import took 0.014799 seconds .
+
