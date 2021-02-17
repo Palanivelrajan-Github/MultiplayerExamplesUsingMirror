@@ -421,6 +421,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="MovePlayer.cs" t="Include" />
+          <e p="MyNetworkManager.cs" t="Include" />
         </e>
         <e p="ScriptTemplates" t="Include">
           <e p="50-Mirror__Network Manager-NewNetworkManager.cs.txt" t="Include" />
